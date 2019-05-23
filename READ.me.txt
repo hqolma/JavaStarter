@@ -1,1 +1,1 @@
-На екран виводиться три завдання з нового рядка за допомогою ф-ції "System.out.println" 
+Create three text fields from new row using: "System.out.println"
