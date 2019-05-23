@@ -1,1 +1,1 @@
-Create three text fields from new row using: "System.out.println"
+Create three text fields using: "System.out.println"
